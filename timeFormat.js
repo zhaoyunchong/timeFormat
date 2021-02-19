@@ -11,7 +11,6 @@ function timeToMinute(times){
             } else {
                 t = hour + ":";
             }
-            var demo = "hel"
             if(min < 10){t += "0";}
             t += min + ":";
             if(sec < 10){t += "0";}
