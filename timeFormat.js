@@ -1,6 +1,7 @@
 // 秒转换分钟00:00:00格式
 function timeToMinute(times){
        var t;
+       var a= "zyc";
         if(times > -1){
             var hour = Math.floor(times/3600);
             var min = Math.floor(times/60) % 60;
