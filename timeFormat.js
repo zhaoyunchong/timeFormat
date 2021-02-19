@@ -2,6 +2,7 @@
 function timeToMinute(times){
     console.log('赵云冲的git')
     console.log('hello world');
+    console.log('zyc')
        var t;
         if(times > -1){
             var hour = Math.floor(times/3600);
