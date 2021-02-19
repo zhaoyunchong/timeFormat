@@ -1,5 +1,6 @@
 // 秒转换分钟00:00:00格式
 function timeToMinute(times){
+    console.log('赵云冲的git')
        var t;
         if(times > -1){
             var hour = Math.floor(times/3600);
