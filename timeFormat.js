@@ -18,5 +18,5 @@ function timeToMinute(times){
         }
         t=t.substring(0,t.length-3);
         return t;
-  
+        console.log(456);
 }
