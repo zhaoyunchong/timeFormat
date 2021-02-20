@@ -1,5 +1,6 @@
 // 秒转换分钟00:00:00格式
 function timeToMinute(times){
+    console.log('test')
     console.log('zyc');
        var t;
         if(times > -1){
