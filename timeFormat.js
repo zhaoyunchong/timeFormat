@@ -1,6 +1,6 @@
 // 秒转换分钟00:00:00格式
 function timeToMinute(times){
-    console.log('zyc');
+    console.log('zyc111');
        var t;
         if(times > -1){
             var hour = Math.floor(times/3600);
